@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Playlistify Demo</h1>
-                <h2>Yeehaw!</h2>
+                <h2>Hooray!</h2>
                 <p>This is running on ECS! And changes are updated through CodePipeline.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
